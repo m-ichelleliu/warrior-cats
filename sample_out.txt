@@ -1,0 +1,140 @@
+
+ThunderClan:
+Leader: 
+Dewstar (Dewmist), a blue-gray mottled she-cat with cream eyes
+Deputy: 
+Russetpool, a cream dappled tom with dusty gray eyes
+Medicine Cat: 
+Waspthorn, a white plain tom with black eyes
+Medicine Cat Apprentice: 
+Cherrypaw (Cherrypool), a golden dappled tom with brown eyes
+Warriors: 
+Stumpyleap, a brown tabby she-cat with silver eyes
+Oddnettle, a dark gray mottled she-cat with ginger eyes
+Vinebee, a black tabby she-cat with russet eyes
+Badgerfall, an orange patchy she-cat with cream eyes
+Pinefrost, a black tortoiseshell she-cat with light amber eyes
+Plumgaze, a black dappled she-cat with dark brown eyes
+Wolfgrass, a brown plain tom with dark brown eyes
+Finchstripe, a pale gold dappled tom with ebony black eyes
+Creekwhisker, a pale gold patchy she-cat with dark brown eyes
+Berrythorn, a dark brown dappled tom with russet eyes
+Apprentices: 
+Brushpaw (Brushspots), a dusty gray tabby she-cat with light amber eyes
+Larchpaw (Larchclaw), a ginger tabby she-cat with golden eyes
+Leopardpaw (Leopardsong), a dusty gray mottled she-cat with ebony black eyes
+Dappledpaw (Dappledsky), a russet mottled she-cat with russet eyes
+Pigeonpaw (Pigeonstorm), a blue-gray patchy tom with blue-gray eyes
+Queens: 
+Bouncewish, an amber striped she-cat with coal black eyes
+Molerun, a golden patchy she-cat with coal black eyes
+Hollyspeck, a light brown dappled she-cat with light amber eyes
+Elders: 
+Quailpetal, a white dappled she-cat with ginger eyes
+Onegaze, a dark gray dappled tom with golden eyes
+Hazelsong, a golden mottled she-cat with ebony black eyes
+
+ShadowClan:
+Leader: 
+Spiderstar (Spidermoon), a silver striped she-cat with silver eyes
+Deputy: 
+Herontuft, a light brown tawny tom with dusty gray eyes
+Medicine Cat: 
+Antgaze, a dark gray tortoiseshell tom with amber eyes
+Medicine Cat Apprentice: 
+Oakpaw (Oaksong), a russet mottled she-cat with light amber eyes
+Warriors: 
+Echosky, a light amber striped tom with silver eyes
+Poppyeyes, a dark brown mottled tom with light amber eyes
+Shadowspring, a russet tawny she-cat with dark gray eyes
+Crowleg, a ginger plain she-cat with amber eyes
+Ripplespeck, a light gray plain tom with light amber eyes
+Pikebranch, a cream tortoiseshell tom with cream eyes
+Sunnyscar, a dark brown plain tom with dark gray eyes
+Shiningmist, a pale gold tortoiseshell tom with coal black eyes
+Echofall, a brown tawny tom with dark gray eyes
+Oatsun, a brown plain she-cat with light brown eyes
+Apprentices: 
+Brightpaw (Brightbird), an orange tabby she-cat with ebony black eyes
+Haypaw (Haygrass), a light amber mottled tom with brown eyes
+Troutpaw (Troutwind), a dusty gray dappled she-cat with amber eyes
+Cloverpaw (Cloverface), a dusty gray dappled tom with blue-gray eyes
+Pouncepaw (Pouncejay), a coal black tabby tom with light amber eyes
+Queens: 
+Shellspark, a russet dappled she-cat with light gray eyes
+Rustflight, a light gray tawny she-cat with black eyes
+Milkwing, an orange patchy she-cat with golden eyes
+Elders: 
+Aspenberry, a golden plain she-cat with blue-gray eyes
+Tornthorn, a golden dappled tom with pale gold eyes
+Mallowlight, an ebony black tawny she-cat with golden eyes
+
+RiverClan:
+Leader: 
+Tawnystar (Tawnyfoot), a russet plain she-cat with cream eyes
+Deputy: 
+Fadingwatcher, a russet striped she-cat with pale gold eyes
+Medicine Cat: 
+Bumblefrost, a silver tawny she-cat with jet black eyes
+Medicine Cat Apprentice: 
+Scorchpaw (Scorchcloud), a white tabby she-cat with dark brown eyes
+Warriors: 
+Pearlight, a blue-gray tortoiseshell she-cat with golden eyes
+Snakepool, a russet dappled tom with coal black eyes
+Brushwind, a golden tabby she-cat with light brown eyes
+Coalthicket, a blue-gray tawny she-cat with light brown eyes
+Redhollow, a dark brown tabby she-cat with dusty gray eyes
+Blacklight, a golden dappled tom with silver eyes
+Troutacorn, an amber dappled tom with ebony black eyes
+Sweetstreak, a pale gold plain she-cat with amber eyes
+Jaggedfoot, a golden striped tom with dark gray eyes
+Toadnettle, an amber mottled she-cat with cream eyes
+Apprentices: 
+Duskpaw (Duskspeck), a russet mottled tom with amber eyes
+Fadingpaw (Fadingacorn), a dusty gray dappled she-cat with russet eyes
+Creekpaw (Creekcloud), a black mottled tom with blue-gray eyes
+Volepaw (Volejaw), a blue-gray tabby she-cat with orange eyes
+Wetpaw (Wetbelly), an ebony black tawny she-cat with light brown eyes
+Queens: 
+Oatstreak, a coal black tortoiseshell she-cat with light brown eyes
+Mudleap, a black tortoiseshell she-cat with ebony black eyes
+Stormleap, a golden patchy she-cat with blue-gray eyes
+Elders: 
+Flamestem, an ebony black patchy tom with brown eyes
+Kinkshade, an orange striped she-cat with dark brown eyes
+Sagebird, an orange plain tom with russet eyes
+
+WindClan:
+Leader: 
+Wolfstar (Wolfwing), a brown mottled tom with brown eyes
+Deputy: 
+Dapplefur, a blue-gray tabby she-cat with silver eyes
+Medicine Cat: 
+Pinepool, a ginger plain she-cat with ebony black eyes
+Medicine Cat Apprentice: 
+Mousepaw (Mousefrost), a dusty gray dappled she-cat with black eyes
+Warriors: 
+Spottedtalon, a pale gold plain tom with dusty gray eyes
+Blossomwhisker, an amber tawny tom with amber eyes
+Crookedsplash, a dark brown tabby tom with coal black eyes
+Minkclaw, a dark gray mottled tom with ginger eyes
+Mothlight, a cream striped tom with ebony black eyes
+Softspeck, an ebony black dappled tom with ebony black eyes
+Hollyshine, an ebony black mottled tom with light brown eyes
+Gooseheather, an orange tawny she-cat with light brown eyes
+Fawnberry, a dark gray mottled she-cat with ginger eyes
+Brightdapple, a blue-gray mottled tom with golden eyes
+Apprentices: 
+Muddypaw (Muddyberry), a cream plain she-cat with ginger eyes
+Patchpaw (Patchmist), a silver tortoiseshell tom with dark gray eyes
+Kestrelpaw (Kestrelblaze), an orange striped tom with blue-gray eyes
+Barkpaw (Barkbriar), a jet black tortoiseshell she-cat with golden eyes
+Shellpaw (Shellheart), a light gray mottled tom with ginger eyes
+Queens: 
+Quicktree, a pale gold tabby she-cat with pale gold eyes
+Specklejay, a white mottled she-cat with golden eyes
+Dustycreek, a russet tawny she-cat with ebony black eyes
+Elders: 
+Rusheye, an orange tabby she-cat with light brown eyes
+Berryleap, a silver tawny she-cat with golden eyes
+Stormtooth, a coal black striped she-cat with pale gold eyes
